@@ -57,7 +57,7 @@ The pandemic simulation is based on an agent-based model that mimics real-world 
 
 ## Requirements
 
-- MATLAB (version [your MATLAB version])
+- MATLAB version above 2019b
 
 ## Usage
 
